@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420289848614",
+    "project_id": "appdormirrr",
+    "storage_bucket": "appdormirrr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420289848614:android:9c64410bb3953b9ea90de7",
+        "android_client_info": {
+          "package_name": "com.example.micelular"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1kqJfV6iO5w6YMurQXuNQ8RIosVVgyLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
